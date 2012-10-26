@@ -1,0 +1,100 @@
+março
+28
+29
+30	- abre_inscrições_fisioterapia
+31	- feriado
+abril
+1	- feriado
+2	- encerra_inscrições_fisioterapia, abertura_inscrições_publicidade
+3	- abertura_campanhas_fisioterapia, abertura_inscrições_enfermagem
+4	- encerra_inscrições_publicidade
+5	- encerramento_inscrições_enfermagem, abertura_campanhas_publicidade
+6	- abertura_campanhas_enfermagem
+7	- feriado encerramento_campanhas_fisioterapia
+8	- feriado votação_fisioterapia[9:00-11:00][13:00-15:00]
+9	- abertura_inscrições_letras, encerramento_campanhas_enfermagem, encerramento_campanhas_publicidade
+10	- votação_publicidade[18:00-21:00]
+11	- encerramento_inscrições_letras
+12	- abertura_campanhas_letras
+13
+14
+15
+16	- encerramento_campanhas_letras
+17	- votação_letras[19:00-21:00]
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+maio
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+junho
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+

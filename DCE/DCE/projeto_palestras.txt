@@ -1,0 +1,385 @@
+alinhar e executar
+	ter tudo certo e ir o mais rápido possível para ter tempo de resolver imprevistos
+
+
+1 palestra por semana para todos os cursos
+5 reais a entrada
+antecedência
+	as etapas para realização da palestra devem seguir um cronograma
+		tempo antes do dia da palestra para começar a agilizar
+		tempo antes do dia da palestra para ter palestrante certo
+		tempo antes do dia da palestra para ter local certo
+		tempo antes do dia da palestra para ter secundários prontos
+			transporte do palestrante até Pelotas
+			divulgação alcançar um certo nível municipal
+			comidas para os inscritos (tem que ser perfeita)
+
+
+
+Assim que der certo um pessoal deve ser contratado para realizar os serviços
+	Impossível 1 ou 2 sozinhos com faculdade e trabalho fazerem esse trabalho _
+		constantemente, a menos que seja muito otimizado, perigoso tentar
+	Analisar os pontos importantes para a expansão até a perfeição e preencher eles com pessoal
+		Definir muito bem as tarefas deles, perfeição
+
+
+
+Dividir bem por cursos
+	Cada curso tem as suas palestras, porém elas são abertas a todos, e divulgadas a todos
+		Muita divulgação
+			Ter cuidado para não gastar muitos recursos em divulgação, divulgação inteligente
+
+
+
+É necessário conseguir uma lista de todas as universidades do Brasil e do mundo
+	Preferência pelas parecidas com a católica, aumentando para as melhores com o _
+		desenvolvimento do projeto *
+
+
+4 palestras por dia
+	encaixar os horários com os cursos, ver dia preferido, definir um qualquer primeiro e depois ver _
+			com o pessoal do curso um melhor. Encaixar os turnos
+
+
+É provável que a busca por palestrantes seja o maior consumo
+	Pesquisar palestrantes sempre novos e de alta qualidade e compatibilidade com os professores, alunos _
+		e a UCPEL
+
+
+Possivelmente nem os professores nem os alunos vão saber quais palestrantes eles querem que venham
+	Método de analise do perfil dos alunos e professores, as aulas que eles dão
+		O que os alunos e professores gostam de fazer e fazem
+			Lembrar que também é para o resto da sociedade as palestras
+		O que é legal, o que é perfeito
+			Buscar e achar os melhores nas áreas, se for melhor e vier não importa que não esteja de acordo _
+				com o nível da católica, o problema é o pior
+	Conhecer o pessoal e as áreas
+
+
+Dependendo do curso existem melhores horários para realizar as palestras
+	Também ver quem trabalha
+	Horários entre as aulas
+
+
+Ter contato máximo com todos de todos os cursos
+
+
+
+
+seleção de palestrantes
+###############################
+os palestrantes que mais interessam os professores e alunos 
+	pesquisa sobre os interesses do pessoal
+os melhores palestrantes
+	sempre aumentar o nível de forma constante
+nacionais, depois ver internacionais, mas é essencial que se tenham palestras internacionais
+	até em inglês sem tradução, vários entendem inglês, porém isso diminui a quantidade de inscritos
+		ter tradutor, a conseguir na letras ou contratar, entrar em contato com o inglês da letras *
+
+
+
+algoritmo para chamar palestrante
+###############################
+perguntar se tem interesse
+perguntar se ele gostaria de ser pago
+ver certificado para palestrante (PRAC)
+
+
+
+
+
+
+29 cursos
+1 - ADMINISTRAÇÃO
+	Ligação com o curso
+		Contato com coordenador: nenhum
+		Contato com alunos: nenhum
+		Contato com professores: nenhum
+	Turnos livres: tarde
+	Andamento das palestras
+		nenhuma palestra marcada ou realizada
+
+
+2 - ARQUITETURA E URBANISMO
+	Ligação com o curso
+		Contato com coordenador: nenhum
+		Contato com alunos: nenhum
+		Contato com professores: nenhum
+	Turnos livres: manhã e tarde
+	Andamento das palestras
+		nenhuma palestra marcada ou realizada
+
+
+3 - CIÊNCIA DA COMPUTAÇÃO
+	Ligação com o curso
+		Contato com coordenador: coordenador não definido
+		Contato com alunos: vários
+		Contato com professores: vários
+	Turnos livres: tarde
+	Andamento das palestras
+		nenhuma palestra marcada ou realizada, determinar melhores palestrantes que podem vir _
+			e entrar em contato *
+		
+
+
+4 - CIÊNCIAS BIOLÓGICAS - LICENCIATURA
+	Ligação com o curso
+		Contato com coordenador: nenhum
+		Contato com alunos: alguns
+		Contato com professores: nenhum
+	Turnos livres: nenhum, finais de semana ou horários entre as aulas
+	Andamento das palestras
+		nenhuma palestra marcada ou realizada
+
+
+5 - CIÊNCIAS CONTÁBEIS
+	Ligação com o curso
+		Contato com coordenador: nenhum
+		Contato com alunos: nenhum
+		Contato com professores: nenhum
+	Turnos livres: manhã e tarde
+	Andamento das palestras
+		nenhuma palestra marcada ou realizada
+
+
+6 - COMUNICAÇÃO SOCIAL - JORNALISMO
+	Ligação com o curso
+		Contato com coordenador: nenhum
+		Contato com alunos: alguns, tem DA
+		Contato com professores: nenhum
+	Turnos livres: 
+	Andamento das palestras
+		nenhuma palestra marcada ou realizada
+
+
+7 - COMUNICAÇÃO SOCIAL - PUBLICIDADE E PROPAGANDA
+	Ligação com o curso
+		Contato com coordenador: nenhum
+		Contato com alunos: alguns, tem DA
+		Contato com professores: nenhum
+	Turnos livres: 
+	Andamento das palestras
+		nenhuma palestra marcada ou realizada
+
+
+8 - DIREITO
+	Ligação com o curso
+		Contato com coordenador: nenhum
+		Contato com alunos: alguns
+		Contato com professores: nenhum
+	Turnos livres: 
+	Andamento das palestras
+		nenhuma palestra marcada ou realizada
+
+
+9 - ECOLOGIA
+	Ligação com o curso
+		Contato com coordenador: nenhum
+		Contato com alunos: alguns
+		Contato com professores: nenhum
+	Turnos livres: 
+	Andamento das palestras
+		nenhuma palestra marcada ou realizada
+
+
+10 - ECONOMIA
+	Ligação com o curso
+		Contato com coordenador: nenhum
+		Contato com alunos: nenhum
+		Contato com professores: nenhum
+	Turnos livres: 
+	Andamento das palestras
+		nenhuma palestra marcada ou realizada
+
+
+11 - ENFERMAGEM
+	Ligação com o curso
+		Contato com coordenador: nenhum
+		Contato com alunos: nenhum
+		Contato com professores: nenhum
+	Turnos livres: 
+	Andamento das palestras
+		nenhuma palestra marcada ou realizada
+
+
+12 - ENGENHARIA CIVIL
+	Ligação com o curso
+		Contato com coordenador: nenhum
+		Contato com alunos: alguns, tem DA
+		Contato com professores: nenhum
+	Turnos livres: 
+	Andamento das palestras
+		nenhuma palestra marcada ou realizada
+
+
+13 - ENGENHARIA ELÉTRICA
+	Ligação com o curso
+		Contato com coordenador: nenhum
+		Contato com alunos: nenhum
+		Contato com professores: alguns
+	Turnos livres: 
+	Andamento das palestras
+		nenhuma palestra marcada ou realizada
+
+
+14 - EMGENHARIA ELETRÔNICA
+	Ligação com o curso
+		Contato com coordenador: nenhum
+		Contato com alunos: nenhum
+		Contato com professores: alguns
+	Turnos livres: 
+	Andamento das palestras
+		nenhuma palestra marcada ou realizada
+
+
+15 - FARMÁCIA
+	Ligação com o curso
+		Contato com coordenador: nenhum
+		Contato com alunos: nenhum
+		Contato com professores: nenhum
+	Turnos livres: 
+	Andamento das palestras
+		nenhuma palestra marcada ou realizada
+
+
+16 - FILOSOFIA - LICENCIATURA
+	Ligação com o curso
+		Contato com coordenador: nenhum
+		Contato com alunos: alguns
+		Contato com professores: alguns
+	Turnos livres: 
+	Andamento das palestras
+		nenhuma palestra marcada ou realizada
+
+
+17 - FISIOTERAPIA
+	Ligação com o curso
+		Contato com coordenador: nenhum
+		Contato com alunos: alguns, em processo de criação de DA
+		Contato com professores: nenhum
+	Turnos livres: 
+	Andamento das palestras
+		nenhuma palestra marcada ou realizada
+
+
+18 - LETRAS - LICENCIATURA
+	Ligação com o curso
+		Contato com coordenador: nenhum
+		Contato com alunos: alguns, tem DA
+		Contato com professores: alguns
+	Turnos livres: 
+	Andamento das palestras
+		nenhuma palestra marcada ou realizada
+
+
+19 - MATEMÁTICA
+	Ligação com o curso
+		Contato com coordenador: nenhum
+		Contato com alunos: nenhum
+		Contato com professores: nenhum
+	Turnos livres: 
+	Andamento das palestras
+		nenhuma palestra marcada ou realizada
+
+
+20 - MEDICINA
+	Ligação com o curso
+		Contato com coordenador: nenhum
+		Contato com alunos: nenhum
+		Contato com professores: nenhum
+	Turnos livres: 
+	Andamento das palestras
+		nenhuma palestra marcada ou realizada
+
+
+21 - PEDAGOGIA - LICENCIATURA
+	Ligação com o curso
+		Contato com coordenador: nenhum
+		Contato com alunos: nenhum
+		Contato com professores: nenhum
+	Turnos livres: 
+	Andamento das palestras
+		nenhuma palestra marcada ou realizada
+
+
+22 - PSICOLOGIA
+	Ligação com o curso
+		Contato com coordenador: nenhum
+		Contato com alunos: alguns, tem DA
+		Contato com professores: alguns
+	Turnos livres: 
+	Andamento das palestras
+		nenhuma palestra marcada ou realizada
+
+
+23 - QUÍMICA - ÊNFASE NA ÁREA AMBIENTAL
+	Ligação com o curso
+		Contato com coordenador: nenhum
+		Contato com alunos: nenhum
+		Contato com professores: nenhum
+	Turnos livres: 
+	Andamento das palestras
+		nenhuma palestra marcada ou realizada
+
+
+24 - SERVIÇO SOCIAL
+	Ligação com o curso
+		Contato com coordenador: nenhum
+		Contato com alunos: alguns, tem DA
+		Contato com professores: nenhum
+	Turnos livres: 
+	Andamento das palestras
+		nenhuma palestra marcada ou realizada
+
+
+25 - TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
+	Ligação com o curso
+		Contato com coordenador: nenhum
+		Contato com alunos: alguns, em processo de criação de DA
+		Contato com professores: alguns
+	Turnos livres: 
+	Andamento das palestras
+		nenhuma palestra marcada ou realizada
+
+
+26 - TECNOLOGIA EM DESIGN DE MODA
+	Ligação com o curso
+		Contato com coordenador: nenhum
+		Contato com alunos: alguns, tem DA
+		Contato com professores: nenhum
+	Turnos livres: 
+	Andamento das palestras
+		nenhuma palestra marcada ou realizada
+
+
+27 - TECNOLOGIA EM GESTÃO DE TURISMO
+	Ligação com o curso
+		Contato com coordenador: nenhum
+		Contato com alunos: nenhum
+		Contato com professores: nenhum
+	Turnos livres: 
+	Andamento das palestras
+		nenhuma palestra marcada ou realizada
+
+
+28 - TECNOLOGIA EM GESTÃO HOSPITALAR
+	Ligação com o curso
+		Contato com coordenador: nenhum
+		Contato com alunos: nenhum
+		Contato com professores: nenhum
+	Turnos livres: 
+	Andamento das palestras
+		nenhuma palestra marcada ou realizada
+
+
+29 - TECNOLOGIA EM PRODUÇÃO FONOGRÁFICA
+	Ligação com o curso
+		Contato com coordenador: nenhum
+		Contato com alunos: alguns, tem DA
+		Contato com professores: nenhum
+	Turnos livres: 
+	Andamento das palestras
+		nenhuma palestra marcada ou realizada
+
+
+

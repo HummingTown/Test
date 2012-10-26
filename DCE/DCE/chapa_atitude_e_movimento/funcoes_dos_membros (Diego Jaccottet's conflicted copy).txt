@@ -1,0 +1,32 @@
+1 Presidente - 
+	Gerenciar, direcionar e manter todas as posições do DCE
+	Representar o DCE
+
+2 Vice-Presidente - 
+	Igual ao presidente
+
+3 Secretário Geral - 
+	Gerenciar as reuniões
+
+4 Coordenador Financeiro - 
+	Gerenciar a parte de bens materiais e financeiros do DCE, para ter cada vez mais e garantir bom fluxo para os DAs
+
+5 Coordenador de Comunicação - 
+	Criar arte, ampliar os meios de comunicação do DCE com jornal, rádio, adesivos e outros meios
+
+6 Coordenadoria de Assistência Estudantil - 
+	
+
+7 Coordenador de Cultura e Eventos - 
+	Criar eventos culturais
+
+8 Coodenador de Conscientização Política e Movimentos Sociais - 
+
+9 Coordenador de Representação Discente - 
+	Criar DAs e representantes de turma
+
+10 Coordenador de Integração Estudantil - 
+
+11 Coordenador de Extensão - 
+
+12 Coordenador de Ensino e Pesquisa - 

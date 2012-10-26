@@ -1,0 +1,254 @@
+passos: entrar em contato com os coordenadores de todos os cursos para definir datas para as eleições
+
+
+direito			x
+comunicação social	x
+eng. civil		x
+informática		x
+letras			x
+serviço social		x
+farmácia		x
+psicologia		x
+fisioterapia		x
+
+medicina		-
+administração		- primeira semana de outubro, 9:30-11:30 e 18-21
+arquitetura		-
+pedagogia		-
+ecologia		-
+economia		-
+química			-
+biologia		-
+moda			-
+eng. elétrica		-
+enfermagem		-
+filosofia		-
+produção fonográfica	-
+ciências contábeis	-
+eng. eletrônica		-
+matemática		-
+turismo			-
+tecnologia g. hosp.	-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cada votação deve demorar 10 dias úteis
+x = a marcar votação
+
+DAs nos arquivos do DCE
+---------------------------
+ecologia		-(se já está criado) x(adicionado a lista de DAs a criar)
+direito			- x
+pedagogia		- x
+administração		- x
+economia		- x
+química			- x
+biologia		- x
+comunicação social	x
+arquitetura		x
+moda			x 
+eng. elétrica		- x
+eng. civil		x
+enfermagem		- x
+filosofia		- x
+informática		x
+letras			x
+produção fonográfica	x 
+serviço social		x
+farmácia		- x
+psicologia		x
+ciências contábeis	- x
+
+sem arquivos no DCE
+eng. eletrônica				- x
+fisioterapia				- x
+matemática				- x
+medicina				- x
+turismo					- x
+tecnologia em gestão hospitalar		- x
+
+
+DAs unidos
+informática = ciência da computação + tecnologia em análise e desenvolvimento de sistemas
+ = ecologia + biologia + química
+comunicação social = jornalismo + publicidade e propaganda
+ = medicina + enfermagem + fisioterapia + tecnologia em gestão hospitalar + farmácia
+ = eng elétrica + eng. eletrônica? tem que ver isso
+
+
+(x = criado)
+(\ = em processo de criação)
+DAs a criar
+eng. civil								x 
+letras									x
+comunicação social [jornalismo + publicidade e propaganda]		x 
+serviço social								x
+eng. elétrica + eng. eletrônica						- (não deu, precisa de pessoal interessado)
+pedagogia								- (não deu, só depois das provas)
+economia								- (não deu, precisa de pessoal interessado)
+ciências contábeis							- (não deu, precisa de pessoal interessado)
+-manhã + tarde ou noite
+informática [ciência da computação + TADS]				- x
+administração								- (não deu, precisa de pessoal interessado)
+filosofia								- (não deu, falar com pessoal do DA de manhã para reativar)
+ecologia + biologia + química						- (não deu, precisa de pessoal interessado)
+
+
+fisioterapia				x
+direito									x
+tecnologia em gestão hospitalar		- (não deu, precisa de pessoal interessado)
+enfermagem				- (não deu, precisa de pessoal interessado)
+
+
+	matemática				- (DA novo, ver com coordenador do curso [já vi, pessoal desanimado, animar antes de criar edital])
+
+	turismo					- (DA novo, pessoal desanimado, animar antes de criar edital)
+
+	farmácia				- (ver se estes DAs são juntos)
+	
+	medicina				-
+
+
+22 DAs se os DAs que ainda não se sabe não forem unidos. 
+18 se os DAs forem unidos. 
+sem contar matemática e turismo.
+
+8:15 - 11:00
+14:45 - 17:30
+19:15 - 22:00
+
+---------------------------
+
+########### Criação de cédulas e lista de alunos
+
+março
+28	- 
+29	- 
+30	- 
+31	- 
+abril
+1 dom	- 
+2 seg	- 
+3 ter	- 
+4 qua	- 
+5 qui	- 
+6 sex	- 
+7 sab	- 
+8 dom	- 
+9 seg	- 
+10 ter	- 
+11 qua	- votação_eng_civil[19:00-20:30] x
+12 qui	- 
+13 sex	- 
+14 sab	- 
+15 dom	- 
+16 seg	- 
+17 ter	- 
+18 qua	- 
+19 qui	- 
+20 sex	- votação_eng_eletrica_eletronica[19:00-21:00] não houveram inscrições de chapas
+21 sab	- 
+22 dom	- 
+23 seg	- votação_comunicacao[19:00-21:00] x
+24 ter	- 
+25 qua	- 
+26 qui	- votação_servico_social[19:00-21:00] x
+27 sex	- 
+28 sab	- 
+29 dom	- 
+30 seg	- feriado
+maio
+1 ter	- feriado
+2 qua	- 
+3 qui	- votação_letras[19:00-21:00] x
+4 sex	- 
+5 sab	- 
+6 dom	- 
+7 seg	- 
+8 ter	- 
+9 qua	- votação_informatica[8:00-9:00,19:00-20:00] x
+10 qui	- 
+11 sex	- votação_pedagogia[19:00-21:00] vão fazer depois das provas
+12 sab	- 
+13 dom	- 
+14 seg	- votação_administração[8:00-9:00,19:00-20:00] nenhum inscrito 
+15 ter	- votação_filosofia[8:00-10:00] não saiu, tem que falar com o pessoal do Da anterior
+16 qua	- votação_ecologia + biologia + química[8:00-9:00,14:30-15:30,19:00-20:00] nenhum inscrito
+17 qui	- votação_fisioterapia[8:00-9:00,14:30-15:30] x
+18 sex	-  
+19 sab	- 
+20 dom	- 
+21 seg	- 
+22 ter	-  
+23 qua	-  
+24 qui	- 
+25 sex	- votação_tec_gestão_hospitalar[19:00-21:00] nenhum inscrito
+
+(data planejada para termino da criação de todos os DAs, 
+ 15 DAs faltando, 5 criados, eram 20, atraso de 4x, 
+ tem que planejar o tempo para 4 vezes adiante para imprevistos no futuro)
+
+26 sab	- 
+27 dom	- 
+28 seg	- votação_enfermagem[8:00-9:00,14:30-15:30] nenhum inscrito
+29 ter	- 
+30 qua	- 
+31 qui	- 
+junho
+1 sex	-  
+2 sab	- 
+3 dom	- 
+4 seg	- votação_direito[8:00-9:00, 19:00-20:00] x
+5 ter	- 
+6 qua	- 
+7 qui	- feriado
+8 sex	- feriado
+9 sab	- 
+10 dom	- 
+11 seg	- 
+12 ter	- 
+13 qua	- 
+14 qui	- 
+15 sex	- 
+16 sab	- 
+17 dom	- 
+18 seg	- (((hoje)))
+19 ter	- x
+20 qua	- x
+21 qui	- x
+22 sex	- x
+23 sab	- 
+24 dom	- 
+25 seg	- x
+26 ter	- x
+27 qua	- x
+28 qui	- votação_farmacia[8:00-9:00, 19:00-20:00] Fabian: 91445022, amanhã de tarde as 14:00 na secretaria geral
+29 sex	- x
+30 sab	- 
+

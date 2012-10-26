@@ -1,0 +1,94 @@
+#####
+Materiais para inscrição de chapa:
+
+Da chapa
+	Nome da chapa
+	Propostas da chapa
+
+Dos integrantes
+	Telefone
+	Endereço
+	Email
+	Xerox da identidade
+	Comprovante de matricula
+
+#####
+
+dados a conseguir dos alunos {
+	horário e dia da eleição, com 1 semana para inscrições, 1 semana para campanha e 1 dia da eleição
+	
+}
+
+Falar com os alunos ou coordenador do curso e descobrir maior fluxo de alunos em que dia
+e horário. Pra realizar eleição. Ver se esse dia é compativel com teus horários.
+O dia da eleição tem que ser de no mínimo 3 semanas a partir do dia de entrega da data.
+
+ver qual é o campus do curso a ser criado o DA (e horário se não tiver) (pode ser vindo dos alunos ou coordenador)
+criar edital a partir do modelo base com 1 semana para inscrições e campanhas
+pegar salas do curso na prefeitura do campus
+passar nas salar de aula para avisar que está sendo criado o DA do curso
+
+Mandar email para agencia de comunicação solicitando para que seja noticiado no site e nos
+emails dos alunos do curso que foi aberto edital informando dias de inscrição e documentação
+necessária.
+
+Ligar para coordenador do curso informar que o edital esta aberto e que o mesmo converse com
+os professores para mobilizar inscrições
+
+quando aparecer um pessoal interessado
+    falar para eles passarem nas turmas e avisar que está sendo criado o DA
+        para que não aconteçam conflitos durante a votação
+        (pessoal que queria criar chapa mas diz que não foi avisado das inscrições)
+
+falar para o pessoal interessado pedir a lista de alunos para o coordenador 
+	para usar na votação
+
+criar urna 
+    (caixa de papelão escrito "Eleições de DA" na frente e um buraco em cima para os votos)
+
+criar cédulas, usar o arquivo 'Cédulas.docx'com o número de alunos do curso
+
+cortar as cédulas, carimbar com o carimbo da COE atrás e uma pessoa do DCE assinar atrás
+
+levar urna para o local de escolha do DA para votação
+	na votação todos os alunos devem obrigatoriamente 
+		apresentar um documento qualquer com foto
+		assinar no nome dele na lista de alunos
+		votar na cédula
+
+passar nas turmas para garantir que todos votaram, pedir um a um se necessário, junto com o DA
+
+voltar ao DCE, contar os votos numerando eles para garantir
+
+escrever a finalização a mão com base no arquivo 'BASE_PARA_FINALIZACAO_CRIACAO_DA.docx' 
+	(pode ser pulado fazendo digital e imprimindo para as partes assinarem direto)
+
+refazer digitalmente a finalização e imprimir duas vias, uma fica com o DA outra com o DCE
+
+carimbar finalização com carimbo da COE
+
+
+verificar se o DA possui sala
+
+garantir a troca do miolo da fechadura da porta do DA
+
+garantir que o DA receba o repasse
+
+garantir que se realize uma reunião com o DA passado para a prestação de contas
+
+anunciar a criação do DA pelo SAPU para o curso (com integrantes), pelo blog do DCE e no facebook 
+
+criar pasta do DA a partir da base na pasta 'material_criacao_DA' e preencher todos os dados 
+	da chapa para versão digital
+
+marcar reunião para saber da situação do curso e do DA
+
+Criar facebook do DA, adicionar todos do curso
+
+Criar grupo do DA no facebook, adicionar membros do DA
+
+Criar site do DA, ver com renda existente dos DAs anteriores, achar provedor e quem faça o design
+
+Iniciar criação do estatuto de DA
+
+

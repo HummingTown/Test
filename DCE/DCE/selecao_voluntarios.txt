@@ -1,0 +1,214 @@
+Prova Seleção Voluntário DCE
+
+Áreas que deve conhecer
+	Conhecimentos Básicos
+		Português
+			Redação com Tema Relacionado a uma Atualidade da UCPel
+				Instruções
+					1. Elabore uma redação de, no mínimo, 15 linhas, usando o espaço próprio na Folha de Redação.
+					2. Faça uma revisão do texto antes de passá-lo à folha definitiva.
+					3. Na sua redação, você deve:
+						- ocupar as linhas de uma até a outra margem, observando o espaçamento adequado entre as palavras e respeitando os parágrafos;
+						- utilizar linguagem clara, seguir as normas do português padrão, redigir com letra legível e usar somente
+					caneta de tinta azul ou preta .
+					4. Não será aceita redação em versos.
+					5. Qualquer redação, por mais bem feita que esteja, terá nota zero se fugir, completamente, da orientação
+					proposta.
+					6. Não se esqueça de colocar um título.
+				Temas
+					Estado Atual do Movimento Estudantil na UCPel
+					Movimentos Estudantis em Pelotas
+					Situação e Infra-estrutura do seu Curso na UCPel
+					Oportunidades Oferecidas aos Alunos pela UCPel
+			Questões
+				A parcela da população mundial que ascendeu …… classe média nos últimos vinte anos passou …… consumir mais, …… um ritmo acelerado, o que põe em risco a sustentabilidade do planeta.
+					As lacunas da frase acima estarão corretamente preenchidas, respectivamente, por:
+					a) à – a – a X
+					b) à – à – a
+					c) à – a – à
+					d) a – a – à
+					e) a – a – a
+				Victor fracassou porque cedeu a uma predisposição da natureza humana…
+					O elemento grifado na frase acima tem o mesmo sentido de:
+					a) ainda que.
+					b) conquanto.
+					c) enquanto.
+					d) embora.
+					e) uma vez que. X
+				“- Pois é, não jogo futebol, mas tenho alma de artilheiro…” a palavra destacada anteriormente exprime ideia de:
+					a) Escolha.
+					b) Contraste, oposição. X
+					c) Finalidade.
+					d) Explicação.
+					e) Soma, adição.
+				A vírgula pode ser retirada sem prejuízo para o significado e mantendo a norma-padrão na seguinte sentença:
+					a) Mário, vem falar comigo depois do expediente.
+					b) Amanhã, apresentaremos a proposta de trabalho. X
+					c) Telefonei para o Tavares, meu antigo chefe.
+					d) Encomendei canetas, blocos e crachás para a reunião.
+					e) Entrou na sala, cumprimentou a todos e iniciou o discurso.
+		
+		Raciocínio Lógico
+			Se não leio, não compreendo. Se jogo, não leio. Se não desisto, compreendo. Se é feriado, não desisto. Então,
+				a) se jogo, não é feriado. X
+				b) se não jogo, é feriado.
+				c) se é feriado, não leio.
+				d) se não é feriado, leio.
+			João tem um peixe a menos que Inara. Ela tem um a menos que Ana, que tem o dobro de João. Quantos peixes têm cada um?
+				a) João 2 peixes, Inara 6 peixes, Ana 4 peixes.
+				b) João 2 peixes, Inara 3 peixes, Ana 4 peixes. X
+				c) João 4 peixes, Inara 3 peixes, Ana 2 peixes.
+				d) João 1 peixes, Inara 3 peixes, Ana 4 peixes.
+			Um candidato a uma das vagas disputadas em um concurso percebeu que precisava de 4 minutos para responder e marcar no cartão resposta cada uma das 45 questões. Passados 2 horas desde o início das provas havia respondido e marcado no cartão resposta, 20 questões. Quanto tempo precisa dedicar a cada questão para respondê-las e marcá-las dentro do tempo previsto? (tem que passar de minutos para segundos a fração)
+				a) 3 minutos;
+				b) 3 minutos e 20 segundos;
+				c) 2 minutos e 40 segundos; 
+				d) 2 minutos e 24 segundos; X
+			Se o conjunto X tem 45 subconjuntos de 2 elementos, então o número de elementos de X é igual a:
+				a) 10
+				b) 20
+				c) 35
+				d) 45 X
+				
+		Informática
+			Em relação ao MS Excel é correto afirmar que
+				A) não pode haver relação entre o valor de uma célula e os valores de outras células 
+				B) as linhas podem ser ordenadas segundo os valores das células de uma coluna escolhida X
+				C) todas as colunas de uma mesma planilha devem ter a mesma largura 
+				D) os comandos Dividir e Congelar Painéis têm a mesma função 
+				E) uma ou mais colunas ocultadas são transferidas para um arquivo auxiliar devendo este ser acessado para a sua reexibição 
+			Indique a(s) alternativa(s) correta(s) e incorreta(s).
+				a)( )O “drive” é um periférico de entrada. V
+				b)( )A impressora é um periférico de entrada. F
+				c)( )O “scanner” é um periférico só de saída. F
+				d)( )O “mouse” é um periférico só de entrada. V
+				e)( )O Teclado é um periférico de entrada e saída. F
+			As teclas de atalho padronizadas no Word – Microsoft, utilizadas para criar novo documento, desfazer a operação e abrir documento, respectivamente, são:
+				a) Ctrl+ N, Ctrl+P , Ctrl+B
+				b) Ctrl+C, Ctrl+Z, Ctrl+S
+				c) Ctrl+O, Ctrl+Z, Ctrl+A X
+				d) Ctrl+N, Ctrl+D, Ctrl+A
+				e) Ctrl+O, Ctrl+Z, Ctrl+P
+			Se a célula B2 tiver o valor 500 e na célula C4 o valor 15, para multiplicar esses valores usa-se a seguinte fórmula:
+				a) =B2*C15 X
+				b) =B2/C4
+				c) =B2+C4
+				d) =B2*C4
+			
+		Trabalho em Grupo
+			É a área que lida com a recompensa que o individuo recebe como retorno pela execução de tarefas organizacionais. É basicamente uma relação de intercâmbio entre as pessoas e a organização: 
+				a) Compensação X
+				b) Recompensa 
+				c) Benefício social 
+				d) Análise de cargo 
+				e) Recrutamento 
+			Envolve influenciar as  pessoas para que trabalhem num objetivo comum. "Meta(s) traçada(s), responsabilidades definidas, será preciso neste momento uma competência essencial, qual seja, a de influenciar pessoas de forma que os objetivos planejados sejam alcançados."
+				a) Liderar X
+				b) Controlar 
+				c) Manifestar 
+				d) Argumentar 
+				e) Protestar
+			Constituem o nível mais íntimo, profundo e oculto da cultura organizacional. São as crenças inconscientes, percepções, sentimentos e pressuposições dominantes nos quais as pessoas acreditam. A cultura prescreve a maneira de fazer as coisas adotadas na organização, muitas vezes através de pressuposições não escritas e nem sequer faladas.
+				a) Valores compartilhados.
+				b) Histórias.
+				c) Pressuposições básicas. X
+				d) Rituais e Cerimônias. 
+				e) Símbolos Materiais. 
+			Sobre as Teorias Administrativas, assinale a alternativa incorreta: 
+				a) Teoria é o conjunto de suposições inter-relacionadas para explicar o que se pretende, e depende da capacidade desta explicação para resolver problemas concretos e prover uma base para planejar.
+				b) Cada teoria foi criada possuindo uma “abordagem” e, significa dizer que, cada estudo que se transformou em uma teoria teve um enfoque, uma maneira de enfatizar ou evidenciar os valores e relações econômicas, sociais e políticas da época em que foram criadas.
+				c) Segundo Maximiano, (2007), as teorias administrativas são conhecimentos organizados e produzidos pela experiência prática das organizações e são fundamentadas como um conjunto de afirmações e regras, feitas para formatar o que se verifica como realidade.
+				d) Provando o avanço revolucionário que a Ciência Administrativa alcançou e para acompanhar as rápidas mudanças atuais, todas essas Teorias foram desenvolvidas buscando a adaptação necessária à sobrevivência das organizações em geral.
+				e) N.d.a. X
+		
+	DCE
+		Estatuto do DCE
+			Não é finalidade do DCE
+				a) Representar seus associados, no todo ou em parte, judicial ou extrajudicialmente, defendendo os interesses do conjunto destes, sem qualquer distinção de raça, cor, credo, nacionalidade, sexo, idade, convicção política ou classe social.
+				b) Lutar pelo ensino de qualidade e democrático, em todos os níveis, defendendo sempre aos interesses da UCPEL, da região e do Brasil.
+				c) Buscar a aproximação entre os corpos discente, docente e técnico-administrativo da Universidade Católica de Pelotas.
+				d) Organizar e incentivar promoções de caráter cultural, científico e social que visem o aprimoramento da formação universitária e cidadã de seus associados.
+				e) N.d.a X
+			É Coordenadoria do DCE
+				a) Coordenador de Pós-Graduação
+				b) Coordenador de Extensão X
+				c) Coordenador de Recrutamento
+				d) Coordenador de Solucionamentos Externos a UCPel
+			O Conselho dos Diretórios Acadêmicos
+				a) Está imediatamente acima do DCE X
+				b) Está imediatamente abaixo do DCE
+				c) É composto somente pelos representantes dos Diretórios Acadêmicos
+				d) N.d.a
+			A Assembleia Geral será realizada ordinariamente a cada
+				a) 1 mês
+				b) 2 meses
+				c) 3 meses X
+				d) 4 meses
+		
+		Informações específicas do DCE e DAs
+			Quantidade de DAs ativos
+				a) 2
+				b) 5
+				c) 9 X
+				d) 20
+			Repasse do último Mês do DCE (outubro)
+				a) R$ 156,32
+				b) R$ 471,67
+				c) R$ 563,70 X
+				d) R$ 1245,20 
+			Onde se localiza a sede do DCE
+				a) Rua Gonçalves Chaves, 373
+				b) Rua Dom Pedro II, 853 X
+				c) Rua Felix da Cunha, 412
+				d) Rua Dom Pedro II, 756
+			Qual desses cursos possui Diretório Acadêmico
+				a) Engenharia Elétrica
+				b) Psicologia X
+				c) Economia
+				d) Administração
+		
+		Gerência
+			
+		
+		Secretariado
+			
+		
+		Financeiro
+			Principais funções
+				Ser assíduo e transparente quanto a prestação de contas
+				Garantir o bom fluxo de caixa para os Diretórios Acadêmicos e internamente no DCE
+				Lutar pelo crescimento financeiro e de bens do DCE e DAs, ou que se mantenha
+			Matemática
+				
+				
+		Comunicação
+			
+		
+		Eventos
+			
+		
+		Política e Movimentos Sociais
+			
+		
+		Representação discente
+			Principais funções
+				Defender as propostas dos alunos
+				Informar sobre as discussões nas quais participou
+				Denunciar as diversas irregularidades e apontar os diversos acertos que temos em nosso cotidiano
+		
+		
+	UCPel
+		Estatuto da UCPel
+			
+		
+		Regimento UCPel
+
+		
+		Últimas Notícias da UCPel
+			
+		
+	Pelotas
+		Informações Específicas da Cidade
+			
+		
+		

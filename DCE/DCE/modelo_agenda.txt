@@ -1,0 +1,14 @@
+REQUISITOS
+horários específicos e não específicos
+	tarefas que precisam ser realizadas em certo horário 
+		e outras que precisam ser realizadas com um prazo mínimo
+	generalização, tempo de execução
+
+vários calendários podendo se ver eles separados ou juntos
+	tarefas importantes ou não, nível de importancia
+
+ter horário definido e também prazo
+	prazo começa agora e vai até uma certa data
+	horário começa em um certo horário
+		generalização da hora de começo e fim
+

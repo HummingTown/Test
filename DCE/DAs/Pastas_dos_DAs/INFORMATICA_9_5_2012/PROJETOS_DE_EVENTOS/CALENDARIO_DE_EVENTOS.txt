@@ -1,0 +1,366 @@
+junho
+1 sex	- x 
+2 sab	- x
+3 dom	- 
+4 seg	- x
+5 ter	- x
+6 qua	- x
+7 qui	- feriado
+8 sex	- recesso
+9 sab	- recesso
+10 dom	- 
+11 seg	- início alguma competição entre os alunos?
+12 ter	- x
+13 qua	- x
+14 qui	- x
+15 sex	- x
+16 sab	- 3 palestras, bus1.me, Izyplay, IGUAL vai confirmar segunda dia 4/6/2012?
+17 dom	- excursão, definir local, FURG, planejar agenda da vista, entrar em contato com coordenador do curso de computação de lá?
+18 seg	- x
+19 ter	- x
+20 qua	- x
+21 qui	- x
+22 sex	- x
+23 sab	- festa na casa do Roberto ou Pablo organizar?, palestras buscar palestrantes?
+24 dom	- 
+25 seg	- x
+26 ter	- x
+27 qua	- x
+28 qui	- x
+29 sex	- x
+30 sab	- palestras buscar palestrantes?
+
+julho
+1 dom	-  
+2 seg	- início mini-curso, arranjar professor, de tarde?
+3 ter	- x
+4 qua	- x
+5 qui	- x
+6 sex	- x
+7 sab	- palestras buscar palestrantes?
+8 dom	- 
+9 seg	- x
+10 ter	- x
+11 qua	- x
+12 qui	- x
+13 sex	- x término das aulas
+14 sab	- palestras buscar palestrantes?
+15 dom	- 
+16 seg	- x
+17 ter	- x
+18 qua	- x
+19 qui	- x
+20 sex	- x
+21 sab	- palestras buscar palestrantes?
+22 dom	- 
+23 seg	- x
+24 ter	- x
+25 qua	- excursão fisl
+26 qui	- x
+27 sex	- x
+28 sab	- palestras buscar palestrantes?
+29 dom	- 
+30 seg	- x início das aulas
+31 ter	- x
+
+agosto
+1 qua	- x
+2 qui	- x
+3 sex	- x
+4 sab	- palestras buscar palestrantes?
+5 dom	- 
+6 seg	- x
+7 ter	- x
+8 qua	- x
+9 qui	- x
+10 sex	- x
+11 sab	- palestras buscar palestrantes?
+12 dom	- 
+13 seg	- x
+14 ter	- x
+15 qua	- x
+16 qui	- x
+17 sex	- x
+18 sab	- palestras buscar palestrantes?
+19 dom	- 
+20 seg	- x
+21 ter	- x
+22 qua	- x
+23 qui	- x
+24 sex	- x
+25 sab	- palestras buscar palestrantes?
+26 dom	- 
+27 seg	- semana acadêmica, arranjar palestrantes de muito longe?
+28 ter	- x
+29 qua	- x
+30 qui	- x
+31 sex	- x
+
+setembro
+1 sab	- palestras buscar palestrantes?
+2 dom	- 
+3 seg	- x
+4 ter	- x
+5 qua	- x
+6 qui	- x
+7 sex	- feriado
+8 sab	- recesso
+9 dom	- 
+10 seg	- x
+11 ter	- x
+12 qua	- x
+13 qui	- x
+14 sex	- x
+15 sab	- palestras buscar palestrantes?
+16 dom	- 
+17 seg	- x
+18 ter	- x
+19 qua	- x
+20 qui	- feriado
+21 sex	- x
+22 sab	- palestras buscar palestrantes?
+23 dom	- 
+24 seg	- x
+25 ter	- x
+26 qua	- x
+27 qui	- x
+28 sex	- x
+29 sab	- palestras buscar palestrantes?
+30 dom	- 
+
+outubro
+1 seg	- x
+2 ter	- x
+3 qua	- x
+4 qui	- x
+5 sex	- x
+6 sab	- palestras buscar palestrantes?
+7 dom	- 
+8 seg	- x
+9 ter	- x
+10 qua	- x
+11 qui	- x
+12 sex	- feriado
+13 sab	- recesso
+14 dom	- 
+15 seg	- feriado
+16 ter	- x
+17 qua	- x
+18 qui	- x
+19 sex	- x
+20 sab	- palestras buscar palestrantes?
+21 dom	- 
+22 seg	- x
+23 ter	- x
+24 qua	- x
+25 qui	- x
+26 sex	- x
+27 sab	- palestras buscar palestrantes?
+28 dom	- 
+29 seg	- x
+30 ter	- x
+31 qua	- x
+
+novembro
+1 qui	- x
+2 sex	- feriado
+3 sab	- recesso
+4 dom	- 
+5 seg	- x
+6 ter	- x
+7 qua	- x
+8 qui	- x
+9 sex	- x
+10 sab	- palestras buscar palestrantes?
+11 dom	- 
+12 seg	- x
+13 ter	- x
+14 qua	- x
+15 qui	- feriado
+16 sex	- x
+17 sab	- palestras buscar palestrantes?
+18 dom	- 
+19 seg	- x
+20 ter	- x
+21 qua	- x
+22 qui	- x
+23 sex	- x
+24 sab	- palestras buscar palestrantes?
+25 dom	- 
+26 seg	- x
+27 ter	- x
+28 qua	- x
+29 qui	- x
+30 sex	- x
+
+dezembro
+1 sab	- palestras buscar palestrantes?
+2 dom	- 
+3 seg	- x
+4 ter	- x
+5 qua	- x
+6 qui	- x
+7 sex	- x
+8 sab	- palestras buscar palestrantes?
+9 dom	- 
+10 seg	- x
+11 ter	- x
+12 qua	- x
+13 qui	- x
+14 sex	- x
+15 sab	- palestras buscar palestrantes?
+16 dom	- 
+17 seg	- x
+18 ter	- x
+19 qua	- x
+20 qui	- x
+21 sex	- x
+22 sab	- palestras buscar palestrantes?
+23 dom	- 
+24 seg	- recesso
+25 ter	- recesso
+26 qua	- recesso
+27 qui	- recesso
+28 sex	- recesso
+29 sab	- recesso
+30 dom	- 
+31 seg	- recesso
+
+janeiro
+1 ter	- feriado
+2 qua	- x
+3 qui	- x
+4 sex	- x
+5 sab	- palestras buscar palestrantes, bem de fora para dar certo?
+6 dom	- 
+7 seg	- início do período de férias dos Docentes
+8 ter	- 
+9 qua	- 
+10 qui	- 
+11 sex	- 
+12 sab	- 
+13 dom	- 
+14 seg	- 
+15 ter	- 
+16 qua	- 
+17 qui	- 
+18 sex	-  
+19 sab	- 
+20 dom	- 
+21 seg	- 
+22 ter	-  
+23 qua	-  
+24 qui	- 
+25 sex	- 
+26 sab	- 
+27 dom	- 
+28 seg	- 
+29 ter	- 
+30 qua	- 
+31 qui	- 
+
+fevereiro
+1 sex	-  
+2 sab	- 
+3 som	- 
+4 seg	- término do período de férias dos Docentes
+5 ter	- x
+6 qua	- x
+7 qui	- x
+8 sex	- x
+9 sab	- palestras buscar palestrantes?
+10 dom	- 
+11 seg	- x
+12 ter	- x
+13 qua	- x
+14 qui	- x
+15 sex	- x
+16 sab	- palestras buscar palestrantes?
+17 dom	- 
+18 seg	- x
+19 ter	- x
+20 qua	- x
+21 qui	- x
+22 sex	- x
+23 sab	- palestras buscar palestrantes?
+24 dom	- 
+25 seg	- provável início das aulas
+26 ter	- x
+27 qua	- x
+28 qui	- x
+
+março
+1 sex	- x 
+2 sab	- palestras buscar palestrantes?
+3 dom	- 
+4 seg	- x
+5 ter	- x
+6 qua	- x
+7 qui	- x
+8 sex	- x
+9 sab	- palestras buscar palestrantes?
+10 dom	- 
+11 seg	- x
+12 ter	- x
+13 qua	- x
+14 qui	- x
+15 sex	- x
+16 sab	- palestras buscar palestrantes?
+17 dom	- 
+18 seg	- propor Semana Acadêmica?
+19 ter	- x
+20 qua	- x
+21 qui	- x
+22 sex	- x
+23 sab	- palestras buscar palestrantes?
+24 dom	- 
+25 seg	- x
+26 ter	- x
+27 qua	- x
+28 qui	- x
+29 sex	- x
+30 sab	- palestras buscar palestrantes?
+31 dom	- 
+
+abril
+1 seg	- x 
+2 ter	- x
+3 qua	- x
+4 qui	- x
+5 sex	- x
+6 sab	- palestras buscar palestrantes?
+7 dom	- 
+8 seg	- x
+9 ter	- x
+10 qua	- x
+11 qui	- x
+12 sex	- x
+13 sab	- palestras buscar palestrantes?
+14 dom	- 
+15 seg	- x
+16 ter	- x
+17 qua	- x
+18 qui	- x
+19 sex	- x
+20 sab	- palestras buscar palestrantes?
+21 dom	- 
+22 seg	- x
+23 ter	- x
+24 qua	- x
+25 qui	- x
+26 sex	- x
+27 sab	- palestras buscar palestrantes?
+28 dom	- 
+29 seg	- x
+30 ter	- x
+
+maio
+1 qua	- x
+2 qui	- x
+3 sex	- x
+4 sab	- palestras buscar palestrantes?
+5 dom	- 
+6 seg	- x
+7 ter	- x
+8 qua	- x
+9 qui	- x

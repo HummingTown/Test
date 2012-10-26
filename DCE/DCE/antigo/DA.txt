@@ -1,0 +1,11 @@
+1 - Falar com os alunos ou coordenador do curso e descobrir maior fluxo de alunos em que dia
+e horário. Pra realizar eleição. Ver se esse dia é compativel com teus horários.
+2-Mandar email para agencia de comunicação solicitando para que seja noticiado no site e nos
+emails dos alunos do curso que foi aberto edital informando dias de inscrição e documentação
+necessária.
+3-Ligar para coordenador do curso informar que o edital ta aberto e que o mesmo converse com
+os professores para mobilizar inscrições
+4-  (extra) - Passar nas turmas.
+
+
+(adicionado ao algoritmo principal)
